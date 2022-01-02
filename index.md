@@ -1,6 +1,3 @@
----
-layout: default
----
-
-{% include 01-name.md %}
+Hello, 
+I am Indrajith S Nair
 
