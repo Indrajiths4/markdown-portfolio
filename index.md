@@ -4,9 +4,9 @@ layout: default
 
 
 <br>
-alt-Image of Yaktocat! 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
 
 <br>
 
-Image-https://octodex.github.com/images/yaktocat.png) %}
+
 
